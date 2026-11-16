@@ -1,8 +1,8 @@
-@font-face{font-family:Manrope;font-style:normal;font-weight:300;font-display:swap;src:url('fonts/manrope-1.ttf') format('truetype')}
-@font-face{font-family:Manrope;font-style:normal;font-weight:400;font-display:swap;src:url('fonts/manrope-2.ttf') format('truetype')}
-@font-face{font-family:Manrope;font-style:normal;font-weight:500;font-display:swap;src:url('fonts/manrope-3.ttf') format('truetype')}
-@font-face{font-family:Manrope;font-style:normal;font-weight:600;font-display:swap;src:url('fonts/manrope-4.ttf') format('truetype')}
-@font-face{font-family:Manrope;font-style:normal;font-weight:700;font-display:swap;src:url('fonts/manrope-5.ttf') format('truetype')}
+@font-face{font-family:Manrope;font-style:normal;font-weight:300;font-display:swap;src:url('fonts/manrope-normalized-300-222ab6f54638.ttf') format('truetype')}
+@font-face{font-family:Manrope;font-style:normal;font-weight:400;font-display:swap;src:url('fonts/manrope-normalized-400-f6c8b11ea2c3.ttf') format('truetype')}
+@font-face{font-family:Manrope;font-style:normal;font-weight:500;font-display:swap;src:url('fonts/manrope-normalized-500-03c034c2b2fb.ttf') format('truetype')}
+@font-face{font-family:Manrope;font-style:normal;font-weight:600;font-display:swap;src:url('fonts/manrope-normalized-600-9f6ed084179e.ttf') format('truetype')}
+@font-face{font-family:Manrope;font-style:normal;font-weight:700;font-display:swap;src:url('fonts/manrope-normalized-700-c51a768176de.ttf') format('truetype')}
 html{scroll-behavior:smooth;scroll-padding-top:150px}body{margin:0;background:#f6f7f7;color:#343b4f}::selection{background:#00bceb;color:#343b4f}:focus-visible{outline:2px solid #343b4f;outline-offset:5px}a{text-underline-offset:4px}
 /* Original ARQO shell: source DOM and source CSS retained, not restyled. */
 .t-records{opacity:1!important}.t-menu-base__right_descr small{opacity:1!important}.t-menu-base__imglogo{height:auto}.tmenu-mobile__container{box-sizing:border-box}.t-menu-base{z-index:1000}#rec4809973601{position:relative;z-index:1000}.t-menusub__menu{display:none}.t-menu-base__list-item:hover .t-menusub__menu,.t-menu-base__list-item:focus-within .t-menusub__menu{display:block;position:absolute;background:#f6f7f7;padding:20px;min-width:260px}.t-menusub__list{list-style:none;padding:0}.t-menusub__list-item{margin:10px 0}
